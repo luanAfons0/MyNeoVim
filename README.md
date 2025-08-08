@@ -49,6 +49,36 @@ nvim
 dotnet tool install --global csharp-ls
 ```
 
+## 🧠 Neovim Keybindings (NvChad Config)
+
+## 🔍 Telescope
+
+| Mode | Key             | Description        |
+|------|-----------------|--------------------|
+| `n`  | `<leader>fa`    | Find files         |
+| `n`  | `<leader>fw`    | Live grep          |
+| `n`  | `<leader>fb`    | List open buffers  |
+| `n`  | `<leader>fo`    | List old buffers   |
+
+## 🌴 NeoVim Tree
+
+| Mode | Key             | Description        |
+|------|-----------------|--------------------|
+| `n`  | `<leader>e`     | Find files         |
+| `n`  | `a`             | Add file           |
+| `n`  | `d`             | Delete file        |
+| `n`  | `e`             | Edit file name     |
+
+## ✏️ Text edit
+
+| Mode | Key             | Description        |
+|------|-----------------|--------------------|
+| `v`  | `{`             | Prev empty line    |
+| `v`  | `}`             | Next empty line    |
+| `v`  | `/`             | Find text in file  |
+| `v`  | `0`             | Start of the line  |
+| `v`  | `$`             | End of the line    |
+
 ---
 
 ## 🙌 Credits
