@@ -15,7 +15,7 @@ This repository is intended to be used as a personal configuration for **[NvChad
 
 - ✨ Clean and organized Neovim setup built on top of NvChad.
 - 🧠 Simplified modular structure for easy configuration.
-- ⚙️ Ready for **C# and .NET** development.
+- ⚙️ Ready for **C#, .NET** and **Node(TS/JS)** development.
 - 🐞 Includes debugger support for C#.
 
 ---
@@ -25,6 +25,7 @@ This repository is intended to be used as a personal configuration for **[NvChad
 - [Neovim](https://neovim.io/) installed.
 - [Git](https://git-scm.com/downloads) installed.
 - [.NET SDK](https://dotnet.microsoft.com/) properly configured.
+- [Node and NPM](https://github.com/nvm-sh/nvm) properly configured.
 - Works best in a **Linux environment** (tested on WSL with Debian).
 
 ---
@@ -49,6 +50,11 @@ nvim
 ### 3. Install C# language server
 ```bash
 dotnet tool install --global csharp-ls
+```
+
+### 4. Install the Typescript language server
+```bash
+npm install -g typescript typescript-language-server
 ```
 
 ## 🧠 Neovim Keybindings (NvChad Config)
@@ -121,6 +127,7 @@ dotnet tool install --global csharp-ls
 - 📟 **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
 - 📟 **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
 - ✏️ **Search and replace guide**: [Youtube Video](https://www.youtube.com/watch?v=YzVmdJ41Xkg)
+- 💦 **Typescript language support**[Youtube Video](https://www.youtube.com/watch?v=CVCBHHFXWNE)
 
 ---
 
