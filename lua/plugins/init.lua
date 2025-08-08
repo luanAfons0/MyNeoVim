@@ -16,6 +16,8 @@ return {
     "williamboman/mason.nvim",
     opts = {
       ensure_installed = {
+        "typescript-language-server",
+        "ts_ls",
         "lua-language-server",
         "csharp-language-server",
         "csharp_ls",
