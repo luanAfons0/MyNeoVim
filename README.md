@@ -1,9 +1,66 @@
-**This repo is supposed to be used as config by NvChad users!**
+# 🛠️ NvChad Custom Configuration
 
-- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
-- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
-- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
+This repository is intended to be used as a personal configuration for **[NvChad](https://github.com/NvChad/NvChad)** — a Neovim framework focused on performance and modularity.
 
-# Credits
+> ℹ️ **Note:** The main NvChad repo (`NvChad/NvChad`) acts as a plugin in this setup. You can import its modules easily using:
+> ```lua
+> require("nvchad.options")
+> require("nvchad.mappings")
+> ```
+> When cloning locally, feel free to delete the `.git` directory or fork the repository for your own use.
 
-1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
+---
+
+## ✅ Features
+
+- ✨ Clean and organized Neovim setup built on top of NvChad.
+- 🧠 Simplified modular structure for easy configuration.
+- ⚙️ Ready for **C# and .NET** development.
+- 🐞 Includes debugger support for C#.
+
+---
+
+## ⚙️ Requirements
+
+- [Neovim](https://neovim.io/) installed.
+- [.NET SDK](https://dotnet.microsoft.com/) properly configured.
+- Works best in a **Linux environment** (tested on WSL with Debian).
+
+---
+
+## 🚀 Getting Started
+
+> ⚠️ This setup was tested in a **Linux/WSL** environment using **Debian**. Some adjustments may be needed for other systems.
+
+### 1. Install Neovim
+```bash
+brew install neovim
+```
+
+### 2. Clone this configuration
+```bash
+git clone https://github.com/luanAfons0/MyNeoVim ~/.config/nvim
+nvim
+```
+
+### 3. Install C# language server
+```bash
+dotnet tool install --global csharp-ls
+```
+
+---
+
+## 🙌 Credits
+
+- 💡 **[LazyVim Starter](https://github.com/LazyVim/starter)** – NvChad’s modular inspiration was influenced by this excellent starter.
+- 📺 **C# NeoVim Setup Guide:** [YouTube Video](https://www.youtube.com/watch?v=JxQb7wkvj8A)
+- 🐛 **Debugging C# in NeoVim:** [YouTube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
+
+---
+
+## 🧠 Final Notes
+
+
+This configuration is tailored to my workflow and preferences, especially for the technologies that I use in my daily projects. Feel free to fork, customize, or contribute!
+
+---
