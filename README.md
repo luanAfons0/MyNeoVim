@@ -23,6 +23,7 @@ This repository is intended to be used as a personal configuration for **[NvChad
 ## ⚙️ Requirements
 
 - [Neovim](https://neovim.io/) installed.
+- [Git](https://git-scm.com/downloads) installed.
 - [.NET SDK](https://dotnet.microsoft.com/) properly configured.
 - Works best in a **Linux environment** (tested on WSL with Debian).
 
