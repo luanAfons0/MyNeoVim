@@ -73,13 +73,14 @@ dotnet tool install --global csharp-ls
 
 ## ✏️ Text edit
 
-| Mode | Key             | Description        |
-|------|-----------------|--------------------|
-| `v`  | `{`             | Prev empty line    |
-| `v`  | `}`             | Next empty line    |
-| `v`  | `/`             | Find text in file  |
-| `v`  | `0`             | Start of the line  |
-| `v`  | `$`             | End of the line    |
+| Mode | Key             | Description                 |
+|------|-----------------|-----------------------------|
+| `v`  | `{`             | Prev empty line             |
+| `v`  | `}`             | Next empty line             |
+| `v`  | `/`             | Find text in file           |
+| `v`  | `0`             | Start of the line           |
+| `v`  | `$`             | End of the line             |
+| `v`  | `y`             | Yank(copy) the selection    |
 
 ## 💻 TMUX keys
 
@@ -117,8 +118,9 @@ dotnet tool install --global csharp-ls
 - 💡 **[LazyVim Starter](https://github.com/LazyVim/starter)** – NvChad’s modular inspiration was influenced by this excellent starter.
 - 📺 **C# NeoVim Setup Guide:** [YouTube Video](https://www.youtube.com/watch?v=JxQb7wkvj8A)
 - 🐛 **Debugging C# in NeoVim:** [YouTube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
-- **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
-- **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
+- 📟 **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
+- 📟 **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
+- ✏️ **Search and replace guide**: [Youtube Video](https://www.youtube.com/watch?v=YzVmdJ41Xkg)
 
 ---
 
