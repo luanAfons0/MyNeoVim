@@ -45,7 +45,10 @@ return {
         "html",
         "css",
         "c_sharp",
-        "bicep"
+        "bicep",
+        "javascript",
+        "typescript",
+        "tsx"
       },
     },
   },
@@ -93,4 +96,18 @@ return {
       "nvim-neotest/neotest"
     }
   },
+  -- Setup the autoclose tag
+  {
+    "windwp/nvim-ts-autotag",
+    ft = {
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "html"
+    },
+    config = function ()
+      require("nvim-ts-autotag").setup()
+    end
+  }
 }
