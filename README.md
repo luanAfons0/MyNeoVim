@@ -99,7 +99,7 @@ npm install -g typescript typescript-language-server
 | `tmux a -t <session-name>`             | Attach to specific session                  |
 | `tmux kill-session`                    | Kill the most recent session                |
 | `tmux kill-session -t <session-name>`  | Kills a specific session                    |
-| `tmux kill-server                      | Kills all sessions                          |
+| `tmux kill-server`                     | Kills all sessions                          |
 
 ### Pane related
 | Key                                 | Description                     |
