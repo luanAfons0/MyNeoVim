@@ -57,6 +57,16 @@ dotnet tool install --global csharp-ls
 npm install -g typescript typescript-language-server
 ```
 
+### 5. Install the EsLint language server
+```bash
+npm install -g eslint
+```
+
+### 6. Make sure mason installed all the packages with the following command
+```bash
+:MasonInstallAll
+```
+
 ## 🧠 Neovim Keybindings (NvChad Config)
 
 ## 🔍 Telescope
@@ -127,7 +137,8 @@ npm install -g typescript typescript-language-server
 - 📟 **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
 - 📟 **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
 - ✏️ **Search and replace guide**: [Youtube Video](https://www.youtube.com/watch?v=YzVmdJ41Xkg)
-- 💦 **Typescript language support**[Youtube Video](https://www.youtube.com/watch?v=CVCBHHFXWNE)
+- 💦 **Node development support**: [Youtube Video](https://www.youtube.com/watch?v=CVCBHHFXWNE)
+- 🔥 **Next and front-end related support**: [Youtube Video](https://www.youtube.com/watch?v=8um8OYwvz3c)
 
 ---
 
