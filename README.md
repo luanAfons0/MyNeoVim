@@ -32,7 +32,7 @@ This repository is intended to be used as a personal configuration for **[NvChad
 
 ## 🚀 Getting Started
 
-> ![WARNING]
+> [!WARNING]
 > This setup was tested in a **Linux/WSL** environment using **Debian**. Some adjustments may be needed for other systems.
 
 
