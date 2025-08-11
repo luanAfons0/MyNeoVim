@@ -110,6 +110,8 @@ npm install -g eslint
 | `tmux kill-session`                    | Kill the most recent session                |
 | `tmux kill-session -t <session-name>`  | Kills a specific session                    |
 | `tmux kill-server`                     | Kills all sessions                          |
+| `<ctrl + b + ctrl + s>`                | Save all session with ressurect             |
+| `<ctrl + b + ctrl + r>`                | Reload all saved sessions with ressurect    |
 
 ### Pane related
 | Key                                 | Description                     |
@@ -136,6 +138,7 @@ npm install -g eslint
 - 🐛 **Debugging C# in NeoVim:** [YouTube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
 - 📟 **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
 - 📟 **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
+- 📟 **TMUX  Resurrect**: [Youtube Video](https://www.youtube.com/watch?v=sMbuGf2g7gc)
 - ✏️ **Search and replace guide**: [Youtube Video](https://www.youtube.com/watch?v=YzVmdJ41Xkg)
 - 💦 **Node development support**: [Youtube Video](https://www.youtube.com/watch?v=CVCBHHFXWNE)
 - 🔥 **Next and front-end related support**: [Youtube Video](https://www.youtube.com/watch?v=8um8OYwvz3c)
