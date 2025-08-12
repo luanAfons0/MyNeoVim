@@ -135,13 +135,14 @@ npm install -g eslint
 
 - 💡 **[LazyVim Starter](https://github.com/LazyVim/starter)** – NvChad’s modular inspiration was influenced by this excellent starter.
 - 📺 **C# NeoVim Setup Guide:** [YouTube Video](https://www.youtube.com/watch?v=JxQb7wkvj8A)
-- 🐛 **Debugging C# in NeoVim:** [YouTube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
-- 📟 **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
-- 📟 **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
-- 📟 **TMUX  Resurrect**: [Youtube Video](https://www.youtube.com/watch?v=sMbuGf2g7gc)
+- 🐛 **Debugging C# in NeoVim:** [YouTube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)   
 - ✏️ **Search and replace guide**: [Youtube Video](https://www.youtube.com/watch?v=YzVmdJ41Xkg)
 - 💦 **Node development support**: [Youtube Video](https://www.youtube.com/watch?v=CVCBHHFXWNE)
 - 🔥 **Next and front-end related support**: [Youtube Video](https://www.youtube.com/watch?v=8um8OYwvz3c)
+- 📟 **TMUX related**:
+  * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
+  * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
+  * **TMUX  Resurrect**: [Youtube Video](https://www.youtube.com/watch?v=sMbuGf2g7gc)
 
 ---
 
