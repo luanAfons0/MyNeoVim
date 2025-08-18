@@ -43,8 +43,9 @@ return {
 
       for server, config in ipairs(opts.servers) do
         -- vim.lsp.enable(server, config)
+        -- vim.lsp.enable(server)
         lspconfig[server].setup(config)
-        vim.lsp.enable(server)
+        lspconfig[server].enable(server)
       end
     end,
   },
