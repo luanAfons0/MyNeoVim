@@ -72,6 +72,8 @@ npm install -g eslint
 | `n`  | `<leader>sf`    | Find files                    |
 | `n`  | `<leader>sg`    | Live grep                     |
 | `n`  | `<leader>bb`    | Switich to other open buffer  |
+| `n`  | `<leader>bd`    | Close currently open buffer |
+| `n`  | `<leader>bo`    | Close all files buffers   |
 
 ## 🌴 NeoVim Tree
 
@@ -91,6 +93,7 @@ npm install -g eslint
 | `v`  | `/`             | Find text in file           |
 | `v`  | `0`             | Start of the line           |
 | `v`  | `$`             | End of the line             |
+| `v`  | `gc`            | Comment the code selected   |
 | `v`  | `<cmd>arrow-up` | Move the selection up       |
 | `v`  | `<cmd>arrow-down`| Move the selection down    |
 
@@ -137,7 +140,6 @@ npm install -g eslint
 ## 🙌 Credits
 
 ### ATUALIZAR AQUI COM OS NOVOS LINKS
-- 💤 **LazyVim setup**: [Youtube Playlist](https://www.youtube.com/watch?v=GOvoKUJjc60&list=PLl0ydjOKtSazRRyvLf8eBWw83VyCZ5Njd&index=2)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
