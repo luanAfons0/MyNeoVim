@@ -40,25 +40,14 @@ brew install neovim
 ### 2. Clone this configuration
 ```bash
 git clone https://github.com/luanAfons0/MyNeoVim ~/.config/nvim
+```
+
+### 3. Open the NeoVim to setup the initial configuration
+```bash
 nvim
 ```
 
-### 3. Install C# language server
-```bash
-dotnet tool install --global csharp-ls
-```
-
-### 4. Install the Typescript language server
-```bash
-npm install -g typescript typescript-language-server
-```
-
-### 5. Install the EsLint language server
-```bash
-npm install -g eslint
-```
-
-### 6. Make sure mason installed all the packages with the following command
+### 4. Make sure Mason installed all the packages with the following command
 ```bash
 :MasonInstallAll
 ```
@@ -154,6 +143,9 @@ npm install -g eslint
 - 💻 **Git integration related**:
   * **Neovim and Git: SOLVED**: [Youtube Video](https://www.youtube.com/watch?v=zOQMwWqdp9w)
   * **The Holy Grail of Neovim Git Integrations**: [Youtube Video](https://www.youtube.com/watch?v=K-FKqXj8BAQ)
+- 🔥**Typescript related**:
+  * **The perfect Neovim setup for Next.js (it's back)**: [YoutubeVideo](https://www.youtube.com/watch?v=8um8OYwvz3c)
+  * **The (almost) perfect Neovim setup for Node.js**: [YoutubeVideo](https://www.youtube.com/watch?v=CVCBHHFXWNE&t=835s)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
