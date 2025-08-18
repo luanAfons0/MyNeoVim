@@ -94,6 +94,13 @@ npm install -g eslint
 | `v`  | `<cmd>arrow-up` | Move the selection up       |
 | `v`  | `<cmd>arrow-down`| Move the selection down    |
 
+## 😃 Utils
+
+| Mode | Key             | Description                    |
+|------|-----------------|--------------------------------|
+| `N`  | `<leader>xx`    | Show list of files diagnostics |
+| `N`  | `<leader>ca`    | Show list of telescope code actions |
+
 ## 💻 TMUX keys
 
 ### Session related
@@ -130,6 +137,7 @@ npm install -g eslint
 ## 🙌 Credits
 
 ### ATUALIZAR AQUI COM OS NOVOS LINKS
+- 💤 **LazyVim setup**: [Youtube Playlist](https://www.youtube.com/watch?v=GOvoKUJjc60&list=PLl0ydjOKtSazRRyvLf8eBWw83VyCZ5Njd&index=2)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
