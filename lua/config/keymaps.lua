@@ -44,6 +44,12 @@ vim.keymap.set("n", "<leader>Y", '"+Y')
 -- Open buffer to the right
 vim.keymap.set("n", "<leader>v", ":vsplit<CR>")
 
+-- Open git preview
+vim.keymap.set("n", "<leader>gp", ":Gitsigns preview_hunk<CR>", {})
+
+-- Toggle git line blame
+vim.keymap.set("n", "<leader>gt", ":Gitsigns toggle_current_line_blame<CR>", {})
+
 -----------------------------------------------------------
 -- Visual Mode
 -----------------------------------------------------------
