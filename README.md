@@ -79,10 +79,18 @@ npm install -g eslint
 
 | Mode | Key             | Description        |
 |------|-----------------|--------------------|
-| `n`  | `<leader>e`     | Open tree         |
+| `n`  | `<leader>e`     | Open tree          |
 | `n`  | `a`             | Add file           |
 | `n`  | `d`             | Delete file        |
 | `n`  | `e`             | Edit file name     |
+
+## Git related
+
+| Mode | Key             | Description        |
+|------|-----------------|--------------------|
+| `n`  | `<leader>gp`     | Show preview of git hunk          |
+| `n`  | `<leader>gt`     | Toggle git blame inline          |
+| `n`  | `<leader>gi`     | Show Neogit interface          |
 
 ## ✏️ Text edit
 
@@ -140,6 +148,12 @@ npm install -g eslint
 ## 🙌 Credits
 
 ### ATUALIZAR AQUI COM OS NOVOS LINKS
+- 💤 **LazyVim related**:
+  * **Full LazyVim setup**: [Youtube Video](https://www.youtube.com/watch?v=GOvoKUJjc60&list=PLl0ydjOKtSazRRyvLf8eBWw83VyCZ5Njd)
+  * **LazyVim 0 to IDE**: [Youtube Video](https://www.youtube.com/watch?v=N93cTbtLCIM)
+- 💻 **Git integration related**:
+  * **Neovim and Git: SOLVED**: [Youtube Video](https://www.youtube.com/watch?v=zOQMwWqdp9w)
+  * **The Holy Grail of Neovim Git Integrations**: [Youtube Video](https://www.youtube.com/watch?v=K-FKqXj8BAQ)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
