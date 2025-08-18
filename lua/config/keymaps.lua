@@ -50,6 +50,9 @@ vim.keymap.set("n", "<leader>gp", ":Gitsigns preview_hunk<CR>", {})
 -- Toggle git line blame
 vim.keymap.set("n", "<leader>gt", ":Gitsigns toggle_current_line_blame<CR>", {})
 
+-- Show Neogit page
+vim.keymap.set("n", "<leader>gi", ":Neogit<CR>", {})
+
 -----------------------------------------------------------
 -- Visual Mode
 -----------------------------------------------------------
