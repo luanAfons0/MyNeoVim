@@ -84,7 +84,7 @@ npm install -g eslint
 | `n`  | `d`             | Delete file        |
 | `n`  | `e`             | Edit file name     |
 
-## Git related
+## 💻 Git related
 
 | Mode | Key             | Description        |
 |------|-----------------|--------------------|
