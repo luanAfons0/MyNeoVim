@@ -21,6 +21,11 @@ return {
           on_attach = function(client)
             require("workspace-diagnostics").populate_workspace_diagnostics(client, 0)
           end,
+          init_options = {
+            preferences = {
+              disableSuggestions = true,
+            },
+          },
         },
         prettier = {},
         prettierd = {},
@@ -28,14 +33,22 @@ return {
       },
     },
     config = function(_, opts)
-      require("mason").setup()
+      require("mason").setup({
+        ensure_installed = {
+          "lua_ls",
+          "prettier",
+          "prettierd",
+          "eslint",
+          "typescript-language-server",
+        },
+      })
       require("mason-lspconfig").setup({
         ensure_installed = {
           "lua_ls",
           "prettier",
           "prettierd",
           "eslint",
-          "ts_ls",
+          "typescript-language-server",
         },
       })
 
