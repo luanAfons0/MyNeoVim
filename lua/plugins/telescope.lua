@@ -5,5 +5,11 @@ return {
     { "<leader>sf", "<cmd>Telescope find_files<cr>" },
     { "<leader>sg", "<cmd>Telescope live_grep<cr>" },
   },
-  dependencies = { "nvim-lua/plenary.nvim" },
+  dependencies = {
+    "nvim-lua/plenary.nvim",
+    "nvim-telescope/telescope-ui-select.nvim",
+  },
+  config = function()
+    require("telescope").load_extension("ui-select")
+  end,
 }
