@@ -53,6 +53,15 @@ vim.keymap.set("n", "<leader>gt", ":Gitsigns toggle_current_line_blame<CR>", {})
 -- Show Neogit page
 vim.keymap.set("n", "<leader>gi", ":Neogit<CR>", {})
 
+-- Debuggin related
+local dap = require("dap")
+
+-- Toggle DAP breakpoint
+vim.keymap.set("n", "<leader>db", dap.toggle_breakpoint, {})
+
+-- DAP continue to next action
+vim.keymap.set("n", "<leader>dc", dap.continue, {})
+
 -----------------------------------------------------------
 -- Visual Mode
 -----------------------------------------------------------

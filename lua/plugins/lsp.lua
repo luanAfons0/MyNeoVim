@@ -44,6 +44,7 @@ return {
           "typescript-language-server",
           "csharp-language-server",
           "csharpier",
+          "netcoredbg",
         },
       })
       require("mason-lspconfig").setup({
