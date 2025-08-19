@@ -30,8 +30,6 @@ This repository is intended to be used as a personal configuration for **[LazyVi
 > [!WARNING]
 > This setup was tested in a **Linux/WSL** environment using **Debian**. Some adjustments may be needed for other systems.
 
-# VERIFICAR TODO O FLUXO DE INSTALAÇÃO DE FERRAMENTAS NECESSÁRIAS
-
 ### 1. Install Neovim
 ```bash
 brew install neovim
@@ -143,7 +141,7 @@ nvim
 - 💻 **Git integration related**:
   * **Neovim and Git: SOLVED**: [Youtube Video](https://www.youtube.com/watch?v=zOQMwWqdp9w)
   * **The Holy Grail of Neovim Git Integrations**: [Youtube Video](https://www.youtube.com/watch?v=K-FKqXj8BAQ)
-- 🔥**Typescript related**:
+- 🔥**Languages related**:
   * **The perfect Neovim setup for Next.js (it's back)**: [YoutubeVideo](https://www.youtube.com/watch?v=8um8OYwvz3c)
   * **The (almost) perfect Neovim setup for Node.js**: [YoutubeVideo](https://www.youtube.com/watch?v=CVCBHHFXWNE&t=835s)
 - 📟 **TMUX related**:
