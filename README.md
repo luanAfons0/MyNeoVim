@@ -69,8 +69,8 @@ npm install -g prettier
 | `n`  | `<leader>sf`    | Find files                    |
 | `n`  | `<leader>sg`    | Live grep                     |
 | `n`  | `<leader>bb`    | Switich to other open buffer  |
-| `n`  | `<leader>bd`    | Close currently open buffer |
-| `n`  | `<leader>bo`    | Close all files buffers   |
+| `n`  | `<leader>bd`    | Close currently open buffer   |
+| `n`  | `<leader>bo`    | Close all files buffers       |
 
 ## 🌴 NeoVim Tree
 
@@ -83,11 +83,11 @@ npm install -g prettier
 
 ## 💻 Git related
 
-| Mode | Key             | Description        |
-|------|-----------------|--------------------|
-| `n`  | `<leader>gp`     | Show preview of git hunk          |
-| `n`  | `<leader>gt`     | Toggle git blame inline          |
-| `n`  | `<leader>gi`     | Show Neogit interface          |
+| Mode | Key             | Description                |
+|------|-----------------|----------------------------|
+| `n`  | `<leader>gp`     | Show preview of git hunk  |
+| `n`  | `<leader>gt`     | Toggle git blame inline   |
+| `n`  | `<leader>gi`     | Show Neogit interface     |
 
 ## ✏️ Text edit
 
@@ -104,9 +104,9 @@ npm install -g prettier
 
 ## 😃 Utils
 
-| Mode | Key             | Description                    |
-|------|-----------------|--------------------------------|
-| `N`  | `<leader>xx`    | Show list of files diagnostics |
+| Mode | Key             | Description                         |
+|------|-----------------|-------------------------------------|
+| `N`  | `<leader>xx`    | Show list of files diagnostics      |
 | `N`  | `<leader>ca`    | Show list of telescope code actions |
 
 ## 💻 TMUX keys
@@ -154,6 +154,8 @@ npm install -g prettier
 - 🔥**Languages related**:
   * **The perfect Neovim setup for Next.js (it's back)**: [YoutubeVideo](https://www.youtube.com/watch?v=8um8OYwvz3c)
   * **The (almost) perfect Neovim setup for Node.js**: [YoutubeVideo](https://www.youtube.com/watch?v=CVCBHHFXWNE&t=835s)
+  * **An actually working C# Configuration for NeoVim (2025)**: [Youtube Video](www.youtube.com/watch?v=JxQb7wkvj8A&)
+  * **NeoVim + C#: Improving the Debugging Experience** : [Youtube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
