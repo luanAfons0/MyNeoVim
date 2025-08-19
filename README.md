@@ -57,7 +57,7 @@ npm install -g prettier
 ```
 
 ### 5. Check if the following packages are all installed, if they aren't, please do it manually
-<img width="594" height="267" alt="{D606E67E-4CEC-41DC-BD29-46947DE28862}" src="https://github.com/user-attachments/assets/3bb20d32-618b-4141-96f1-ade63c98d329" />
+<img width="593" height="310" alt="{03435905-6590-4AB2-97A1-1D92ECD649C4}" src="https://github.com/user-attachments/assets/fbc610d0-1073-41db-a0f8-a87438c3ed5e" />
 
 ## 🧠 Neovim Keybindings (LazyVim Config)
 
@@ -107,6 +107,15 @@ npm install -g prettier
 |------|-----------------|-------------------------------------|
 | `N`  | `<leader>xx`    | Show list of files diagnostics      |
 | `N`  | `<leader>ca`    | Show list of telescope code actions |
+| `N`  | `<leader>dg`    | Run to cursor in debugg mode        |
+| `N`  | `<F9>`          | Add debugger breakpoint to line     |
+| `N`  | `<F1>`          | DAP continue                        |
+| `N`  | `<F2>`          | DAP Step into                       |
+| `N`  | `<F3>`          | DAP Step over                       |
+| `N`  | `<F4>`          | DAP Step out                        |
+| `N`  | `<F5>`          | DAP Step back                       |
+| `N`  | `<F13>`         | DAP restart                         |
+
 
 ## 💻 TMUX keys
 
@@ -155,6 +164,7 @@ npm install -g prettier
   * **The (almost) perfect Neovim setup for Node.js**: [YoutubeVideo](https://www.youtube.com/watch?v=CVCBHHFXWNE&t=835s)
   * **An actually working C# Configuration for NeoVim (2025)**: [Youtube Video](www.youtube.com/watch?v=JxQb7wkvj8A&)
   * **NeoVim + C#: Improving the Debugging Experience** : [Youtube Video](https://www.youtube.com/watch?v=CMZlSYYdSmU)
+  * **simple neovim debugging setup (in 10 minutes)**: [Youtube Video](https://www.youtube.com/watch?v=lyNfnI-B640)
 - 📟 **TMUX related**:
   * **TMUX tutorial**: [Youtube Video](https://www.youtube.com/watch?v=nTqu6w2wc68)
   * **TMUX guide lines**: [Page link](https://tmuxcheatsheet.com/#google_vignette)
