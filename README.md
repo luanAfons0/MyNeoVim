@@ -50,6 +50,16 @@ nvim
 :MasonInstallAll
 ```
 
+### 5. Install the languages servers (LSPs) and formatters
+```
+# LSPs
+dotnet tool install --global csharp-ls
+npm install -g typescript-language-server typescript
+# Formatters
+dotnet tool install -g csharpier
+npm install -g prettier
+```
+
 ## 🧠 Neovim Keybindings (LazyVim Config)
 
 ## 🔍 Telescope
