@@ -56,6 +56,9 @@ dotnet tool install -g csharpier
 npm install -g prettier
 ```
 
+### 5. Check if the following packages are all installed, if they aren't, please do it manually
+<img width="594" height="267" alt="{D606E67E-4CEC-41DC-BD29-46947DE28862}" src="https://github.com/user-attachments/assets/3bb20d32-618b-4141-96f1-ade63c98d329" />
+
 ## 🧠 Neovim Keybindings (LazyVim Config)
 
 ## 🔍 Telescope
