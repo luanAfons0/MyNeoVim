@@ -31,30 +31,26 @@ This repository is intended to be used as a personal configuration for **[LazyVi
 > This setup was tested in a **Linux/WSL** environment using **Debian**. Some adjustments may be needed for other systems.
 
 ### 1. Install Neovim
-```bash
+```console
 brew install neovim
 ```
 
 ### 2. Clone this configuration
-```bash
+```console
 git clone https://github.com/luanAfons0/MyNeoVim ~/.config/nvim
 ```
 
 ### 3. Open the NeoVim to setup the initial configuration
-```bash
+```console
 nvim
 ```
 
-### 4. Make sure Mason installed all the packages with the following command
-```bash
-:MasonInstallAll
-```
-
-### 5. Install the languages servers (LSPs) and formatters
-```
+### 4. Install the languages servers (LSPs) and formatters
+```console
 # LSPs
 dotnet tool install --global csharp-ls
 npm install -g typescript-language-server typescript
+
 # Formatters
 dotnet tool install -g csharpier
 npm install -g prettier
