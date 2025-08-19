@@ -49,13 +49,13 @@ return {
       })
       require("mason-lspconfig").setup({
         ensure_installed = {
-          "lua_ls",
-          "prettier",
-          "prettierd",
-          "eslint",
-          "typescript-language-server",
-          "csharp-language-server",
-          "csharpier",
+          -- "lua_ls",
+          -- "prettier",
+          -- "prettierd",
+          -- "eslint",
+          --"typescript-language-server",
+          -- csharp-language-server",
+          --"csharpier",
         },
       })
 

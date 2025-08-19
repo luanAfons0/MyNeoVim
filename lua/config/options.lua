@@ -67,7 +67,7 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 
 -- Faster scrolling
-vim.opt.lazyredraw = true
+-- vim.opt.lazyredraw = true
 
 -- Highlight yank
 vim.api.nvim_create_autocmd("textyankpost", {
