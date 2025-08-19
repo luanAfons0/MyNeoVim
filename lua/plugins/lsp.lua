@@ -30,6 +30,8 @@ return {
         prettier = {},
         prettierd = {},
         eslint = {},
+        csharp_ls = {},
+        csharpier = {},
       },
     },
     config = function(_, opts)
@@ -40,6 +42,8 @@ return {
           "prettierd",
           "eslint",
           "typescript-language-server",
+          "csharp-language-server",
+          "csharpier",
         },
       })
       require("mason-lspconfig").setup({
@@ -49,6 +53,8 @@ return {
           "prettierd",
           "eslint",
           "typescript-language-server",
+          "csharp-language-server",
+          "csharpier",
         },
       })
 

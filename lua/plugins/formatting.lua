@@ -12,9 +12,17 @@ return {
           typescriptreact = { "prettierd", "prettier", stop_after_first = true },
           json = { "prettierd", "prettier", stop_after_first = true },
           graphql = { "prettierd", "prettier", stop_after_first = true },
+          cs = { "csharpier" },
+        },
+        formatters = {
+          csharpier = {
+            command = "csharpier",
+            args = { "format", "--write-stdout", "$FILENAME" },
+            stdin = true,
+          },
         },
         format_on_save = {
-          timeout_ms = 500,
+          timeout_ms = 1000,
           lsp_format = "fallback",
         },
       })
