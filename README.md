@@ -152,7 +152,6 @@ npm install -g prettier
 
 ## 🙌 Credits
 
-### ATUALIZAR AQUI COM OS NOVOS LINKS
 - 💤 **LazyVim related**:
   * **Full LazyVim setup**: [Youtube Video](https://www.youtube.com/watch?v=GOvoKUJjc60&list=PLl0ydjOKtSazRRyvLf8eBWw83VyCZ5Njd)
   * **LazyVim 0 to IDE**: [Youtube Video](https://www.youtube.com/watch?v=N93cTbtLCIM)
