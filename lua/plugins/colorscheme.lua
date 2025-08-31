@@ -1,11 +1,11 @@
 return {
   {
-    "folke/tokyonight.nvim",
+    "zootedb0t/citruszest.nvim",
     lazy = false,
     priority = 1000,
     opts = {},
-    configs = function()
-      vim.cmd([[colorscheme tokyonight]])
+    config = function()
+      vim.cmd([[colorscheme citruszest]])
     end,
   },
 }
