@@ -1,11 +1,10 @@
 return {
   {
-    "zootedb0t/citruszest.nvim",
-    lazy = false,
+    "ellisonleao/gruvbox.nvim",
     priority = 1000,
     opts = {},
     config = function()
-      vim.cmd([[colorscheme citruszest]])
+      vim.cmd([[colorscheme gruvbox]])
     end,
   },
 }
