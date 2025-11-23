@@ -86,6 +86,7 @@ return {
           "eslint",
           "typescript-language-server",
           "csharp-language-server",
+          "duster",
           "csharpier",
           "netcoredbg",
           "clangd",
