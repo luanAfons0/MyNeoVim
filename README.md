@@ -1,4 +1,4 @@
-# 💤 LazyVim Custom Configuration
+<img width="389" height="405" alt="{12A65569-EBA0-46E9-9AF6-5447B1EFB882}" src="https://github.com/user-attachments/assets/21038de0-a38d-4204-a896-85be99c9c9e8" /># 💤 LazyVim Custom Configuration
 
 This repository is intended to be used as a personal configuration for **[LazyVim](https://github.com/LazyVim/LazyVim)**.
 
@@ -10,7 +10,7 @@ This repository is intended to be used as a personal configuration for **[LazyVi
 
 - ✨ Clean and organized Neovim setup built on top of LazyVim.
 - 🧠 Simplified modular structure for easy configuration.
-- ⚙️ Ready for **C#, .NET** and **Node(TS/JS)** development.
+- ⚙️ Ready for **C#, .NET**, **PHP** and **Node(TS/JS)** development.
 - 🐞 Includes debugger support for C#.
 
 ---
@@ -21,6 +21,7 @@ This repository is intended to be used as a personal configuration for **[LazyVi
 - [Git](https://git-scm.com/downloads) installed.
 - [.NET SDK](https://dotnet.microsoft.com/) properly configured.
 - [Node and NPM](https://github.com/nvm-sh/nvm) properly configured.
+- [PHP and Composer]() properly configured.
 - Works best in a **Linux environment** (tested on WSL with Debian).
 
 ---
