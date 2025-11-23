@@ -1,4 +1,5 @@
-<img width="389" height="405" alt="{12A65569-EBA0-46E9-9AF6-5447B1EFB882}" src="https://github.com/user-attachments/assets/21038de0-a38d-4204-a896-85be99c9c9e8" /># 💤 LazyVim Custom Configuration
+# 💤 LazyVim Custom Configuration
+<img width="389" height="405" alt="{12A65569-EBA0-46E9-9AF6-5447B1EFB882}" src="https://github.com/user-attachments/assets/e39684f8-79b0-4333-aa9d-e658e78157d5" />
 
 This repository is intended to be used as a personal configuration for **[LazyVim](https://github.com/LazyVim/LazyVim)**.
 
